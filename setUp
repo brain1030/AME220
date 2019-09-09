@@ -1,0 +1,4 @@
+node.js
+nodejs.org (lts verson)
+
+sudo npm install -g http-server
